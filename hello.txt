@@ -19,6 +19,6 @@ hello,git!
 hello,git!
 hello,git!
 hello,git!
-hello,git!
+hello,git!hhot-fix test
 hello,git!
 hello,git!
